@@ -1,6 +1,7 @@
 # this class will store all the settings required for the alien
 # invasion game . any new settings or the chnage in the settings
 # will be handled in this class 
+# simple demo of git add commands 
 
 class Settings():
 	""Initialise the game settings for aliens invasion game "
